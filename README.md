@@ -45,7 +45,7 @@ composer require "filipegar/maxipago"
 
 ## Utilizando o SDK
 
-Exemplos de código estão disponíveis no arquivo [docs.md](../docs.md) na raiz deste repositório.
+Exemplos de código estão disponíveis no arquivo [docs.md](./docs.md) na raiz deste repositório.
 
 ## Cartões para testes
  
